@@ -6,9 +6,9 @@ We work with strategists, designers and analysts to build elegant digital produc
 
 Here you can read more about:
 
-* [Our values](./Values)
-* [Our work environment](./Environment)
-* [Our role in the community](./Community)
-* [Innovation and learning](./Innovation)
-* [How we manage career progression](./Career)
+* [Our values](./values)
+* [Our work environment](./environment)
+* [Our role in the community](./community)
+* [Innovation and learning](./innovation)
+* [How we manage career progression](./career)
 
