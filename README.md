@@ -1,6 +1,4 @@
-# Engineering
-
-This repository contains public information about the [Deloitte Digital](https://deloittedigital.co.uk) Engineering team.
+Here you can find publicly available information about the [Deloitte Digital](https://deloittedigital.co.uk) UK Engineering team.
 
 Feel free to browse through the folders and documents to learn more. You can learn about:
 
