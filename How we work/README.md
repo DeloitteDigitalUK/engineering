@@ -8,7 +8,7 @@ We work [on-site with our clients](./Working%20with%20clients/On%20site), as wel
 
 We believe in [Agile](./Methods/Agile), [Kanban](./Methods/Kanban), and [DevOps](./Methods/DevOps).
 
-We employ leading practices like [continuous integration](./Practices/Continuous%20integration), [continuous delivery](./Practices/Continuous%20Delivery), [test-driven development](./Practices/TDD), [behaviour-driven development](./Practices/Behaviour%20Driven%20Development), and [robust quality assurance](./Practices/QA).
+We employ leading practices like [continuous integration](./Practices/Continuous%20Integration), [continuous delivery](./Practices/Continuous%20Delivery), [test-driven development](./Practices/TDD), [behaviour-driven development](./Practices/Behaviour%20Driven%20Development), and [robust quality assurance](./Practices/QA).
 
 We engage with clients on a [fixed price](./Engagement%20models/Fixed%20price), [time and materials](./Engagement%20models/Time%20and%20materials), or [shared value](./Engagement%20models/Shared%20value) basis, depending on what is most appropriate.
 
