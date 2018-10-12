@@ -124,14 +124,14 @@ At this point in your career, you may start to specialise more as either a deliv
 - Writing code alongside your development team, helping them succeed.
 - Representing (and sometimes, protecting) your team to clients and senior stakeholders.
 - Facilitating your team through estimating and planning, creating a shared vision of what is possible and reasonable.
-	    
-## Senior Technical Lead
+
+### Senior Technical Lead
 
 You are now a junior member of our leadership team. You’ll be involved in bigger projects and responsible for more complex solutions – solutions that your clients might consider business-critical. You are also recognised outside the firm for your skills and expertise. You are an inspiring leader and you have built a team around you, who are rooting for you to succeed.
 
 Senior Technical Lead is the first grade for which you need to present a business case and participate in an evaluation process that includes a panel interview. The business case is an opportunity for you to articulate what you do, and how it is additive to the firm and our clients. You should expect to invest significant time and effort into developing and articulating your business case, working with a range of mentors and senior supporters along the way.
 
-### Chief Engineer
+#### Chief Engineer
 
 Some, but far from all, of our Senior Technical Leads will be recognised as a Chief Engineer, a particular role that describes some of our most experienced and capable technologists. Our Chief Engineers are our guardians of quality and innovation:
 
@@ -148,11 +148,11 @@ Our Chief Engineers do this by:
 - helping project teams share their experiences and innovations with the wider practice; and 
 - chairing Solution Review Boards for projects.
 
-## Technical Director
+### Technical Director
 
 This is a senior leadership role in our business. What you do will be very personal to you and your career. You will have presented a specific business case for your promotion, which you are now executing on.
 
-## Partner
+### Partner
 
 Our Partners are the owners and stewards of our business. Each project, client account and business unit will have a Partner who is ultimately personally accountable for its success. Being a Partner in Deloitte is an entrepreneurial endeavour, focused on creating new opportunities and capabilities that drive us forward as a business and make this a meaningful and exciting place for our people to build their careers.
 
