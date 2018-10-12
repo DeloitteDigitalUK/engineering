@@ -6,7 +6,7 @@ Clearly, there is no single answer to any of those questions, but we can conside
 
 ## Access to complex business problems
 
-Deloitte has relationships at the very top level of the largest, most ambitious organisations in the world. When they have sticky, gnarly problems, they call us. And often the answers to those complex business problems involve a great deal of product engineering.
+Deloitte has relationships at the very top level of the largest, most ambitious organisations in the world. When they have deep and complex business problems, they call us. And often the answers to those problems involve a great deal of product engineering.
 
 > "How can we attract a new generation of customers? Perhaps through digital channels?"
 > 
@@ -20,11 +20,11 @@ And you get to say, "I was part of making that."
 
 ## Big, messy, and real-world
 
-Working on these types of problems for these types of clients is not like working for a start-up, or in a protected corner of a bigger business. It's big. It's messy. There is legacy, and culture, and an existing workforce. Customers, regulators, and politics. It's hard work sometimes.
+Working on these types of problems for these types of clients is not like working for a start-up, or on a non-critical project for a larger business. It's big. It's messy. There is legacy, and culture, and an existing workforce. Customers, regulators, and politics. It's hard work sometimes.
 
-For some, this is frustrating. We may want to use the latest and greatest technology (and we typically do), but we also have to consider how it will be looked after, so that we leave the client in a good place when we depart, or at least help them run it for the foreseeable future. We need to bring the client on the journey, even if they are starting from a different place, so that the transformation is something we do *with* them and not *to* them. That can take time, and patience, and compromise. Pragmatism is an important word in our vocabulary.
+For some, this is frustrating. We may want to use the latest and greatest technologies (and we typically do), but we also have to consider how it will integrate with the client’s existing technology landscape. We need to bring the client on the journey, even if they are starting from a different place, so that the transformation is something we do *with* them and not *to* them. That can take time, and patience, and compromise. Pragmatism is an important word in our vocabulary.
 
-But this can also be hugely rewarding. Those who think of navigating the messy real-world as a first-order problem rather than an irritant will find a career at Deloitte fascinating. Oh, the stories we could tell...
+But this can also be hugely rewarding. Those who think of navigating the messy real-world as a first-order problem rather than an irritant will find a career at Deloitte fascinating. We find ways to help our clients go beyond what they imagined to be possible.
 
 ## Working with the client
 
