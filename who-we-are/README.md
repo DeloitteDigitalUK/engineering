@@ -8,7 +8,8 @@ Here you can read more about:
 
 * [Our values](./values)
 * [Our work environment](./environment)
-* [Our role in the community](./community)
+* [Our community](./community)
 * [Innovation and learning](./innovation)
+* [Those who thrive here](./who)
 * [How we manage career progression](./career)
 
