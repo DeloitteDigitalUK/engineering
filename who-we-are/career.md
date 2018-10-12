@@ -108,14 +108,14 @@ At this point in your career, you may start to specialise more as either a deliv
 - Ability to write clear, high-performance code that solves complex problems.
 - Designing and building frameworks, tools, and platforms that make us more productive and effective.
 - Demonstrated experience designing, building and maintaining large-scale, high-performance systems.
-	    
+
 #### Architect
 
 - With a development background, understanding architecture and its value.
 - Designing evolutionary architecture.
 - Writing code alongside the development team, helping to make your architecture real.
 - Advising our clients on architecture related concerns.
-	    
+
 #### Technical Delivery Lead
 
 - Building, supporting, and mentoring high performing delivery teams.
