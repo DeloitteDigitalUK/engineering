@@ -66,11 +66,17 @@ Our people are smart and kind. We look after each other. People don't succeed at
 
 But you do have to be willing and comfortable with going out and building those relationships yourself. There isn't a map of our firm neatly furled up in every office. It is easy to feel a bit lost in it all, and branching out takes time and energy. Those who do find that time and energy, who enjoy turning over rocks to see what expertise might live beneath them, will find Deloitte a fascinating place to work.
 
+## Respecting each other
+
+One thing is non-negotiable: we have the utmost respect for each other and for our clients, regardless of their gender, background, orientation, or choices. We work hard at building an environment that is inclusive and diverse. That's easy on the surface, but sometimes requires us to take a long, hard look at the mirror. Everyone, from a new graduate to a senior Partner is held to this standard.
+
 ## Learning seniority
 
 We are at once very hierarchical and very flat. There is a rigorous set of career expectations, with feedback, reviews, and salary bands. But everyone, including the very senior, is approachable and relatable.
 
 In fact, "seniority" – style, language, impact, influence, grasp of the detail – is one of the the things we are best at teaching our people. We have to, because even relatively early in your career, you might find yourself in a room with senior clients, needing to speak their language, to inspire them to have confidence in you, and, by extension, Deloitte.
+
+*Leadership* is a word often heard in our corridors. Transition into leadership ends up being an important marker in any career at Deloitte: one that we both support, and expect. And leadership can mean a great variety of things. We have leaders who stand on soapboxes to rally their teams, but also leaders who inspire others through acts of integrity and quality; leaders who innovate; leaders who support and enable their peers when times are tough; leaders who protect and enourage; leaders who get their hands dirty. Having a vision of what kind of leader you will be – how you will have a positive impact on your colleagues and clients – is an important ingredient in a career here.
 
 ## The value of a career
 
