@@ -28,7 +28,7 @@ But this can also be hugely rewarding. Those who think of navigating the messy r
 
 ## Working with the client
 
-We believe that the best way to help our clients is to immerse ourselves in their environment. Projects vary, but we typically have some or all of our team on-site with the client in their offices.
+We believe that the best way to help our clients is to immerse ourselves in their environment. We want to be in there with them, not opining from the sidelines. Projects vary, but we typically have some or all of our team on-site with the client in their offices.
 
 That means that whilst your Deloitte office is your professional homestead, you may not spend the majority of your time there. There are different models, especially in our delivery centres, but travel is a part of the job for a great many of our people, and when we work on site with the client, we need to adapt to their culture and work environment, at least up to a point.
 
@@ -40,7 +40,7 @@ We will always be reasonable, and work with you to make sure you have a pattern 
 
 It is important to remember that Deloitte (for the most part) is a professional services company. We serve our clients through projects that bring our expertise and capability to them. We build new products, but they belong to our clients.
 
-For some, that is a blessing: a chance for variety, and to subtly re-invent yourself each time you start a new engagement. For others, it's a curse: having to re-make the same points each time; leaving behind a thing you poured your heart and soul into.
+For some, that is a blessing: a chance for variety, and to subtly re-invent yourself each time you start a new engagement; always evaluating and learning; staying on the steepest part of the learning curve. For others, it's a curse: having to re-make the same points each time; leaving behind a thing you poured your heart and soul into; never quite reaching your comfort zone.
 
 If the latter is you, then you may be happier working in a products business. Deloitte does in fact have a products business, and we would love to talk to you about it.
 
@@ -62,7 +62,7 @@ We also don't have a lot of people whose job it is solely to "run Deloitte". Mos
 
 Venture out into the world of wider Deloitte, and you'll be surprised at what you find. People with specialisms and back stories that would never have crossed your mind. The power of Deloitte is the power to combine these things. A deep expert in the oil and gas industry, working with a strategist with a genius for the unconventional, inspired by a visionary designer, grounded by an insightful user researcher, creating amazing apps with world-class analysts, engineers, and testers.
 
-Our people are smart, but kind. We look after each other. People don't succeed at Deloitte by taking credit for the achievements of others, or burning their teams out for their own gain. Quite the opposite.
+Our people are smart and kind. We look after each other. People don't succeed at Deloitte by taking credit for the achievements of others, or burning their teams out for their own gain. Quite the opposite. We learn the most from our colleagues, and admire those who support others' learning.
 
 But you do have to be willing and comfortable with going out and building those relationships yourself. There isn't a map of our firm neatly furled up in every office. It is easy to feel a bit lost in it all, and branching out takes time and energy. Those who do find that time and energy, who enjoy turning over rocks to see what expertise might live beneath them, will find Deloitte a fascinating place to work.
 
