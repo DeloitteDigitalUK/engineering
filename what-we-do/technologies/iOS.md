@@ -1,7 +1,11 @@
 # iOS
 
-Creating apps that are beautiful on the outside and the inside.
+We are accelerating enterprise digital transformation using iOS, and are helping our clients employees work the way they live using the devices they love.
 
-Our engineers create rich, powerful and exciting apps for iPhone, iPad and Apple Watch, predominantly using the native capabilities of the iOS platform (though we will use cross-platform tools such as Xamarin and React Native when appropriate). Whether a project targets iOS only or a combination of platforms, we strive to create apps that are beautiful both on the outside and the inside.
+>"As the leader in digital transformation strategy, Deloitte is an ideal partner that brings a team of Apple-dedicated strategic advisors to help clients truly revolutionize how they work using iOS, iPhone and iPad,” — Tim Cook, CEO Apple
 
-In our [enterprise partnership with Apple](http://deloitte.com/apple), it is our iOS engineers that realise the vision created with and for our clients.
+Our multi-disciplinary team works with clients to understand their business goals, and to rapidly prototype solutions that often form the first step on our client's journey of digital transformation. We create rich, powerful and exciting solutions using Apple platforms including iOS, tvOS and watchOS.
+
+App development at Deloitte Digital is a team endeavour, and it is the combination of skills from Business Analysts, Experience Designers, Engineering and Quality that drive business results for our clients, while delighting their users. We work across industries from Retail and Financial Services to public sector. Our projects range from cutting edge prototypes using the latest technology, to Apps that drive millions of pounds in revenue through the App Store.
+
+For more information about EnterpriseNext and our enterprise partnership with Apple, visit [deloitte.com/apple](http://deloitte.com/apple).
