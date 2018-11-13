@@ -26,7 +26,7 @@ Specific definitions of what it means to operate at each grade are outlined belo
 
 At this level, your main focus is on learning your craft. This is where our graduates start out, but we also hire directly into this grade. 
 
-You are expected to learn quickly, to keep an open mind, to ask for help constructively, and to contribute where you can. You are part of a formal traineeship programme that aims to teach you how to be an effective consultant and a good developer. This typically lasts two years.
+You are expected to be hungry to learn something new every day, to keep an open mind, to ask for help constructively, and to contribute where you can. You are part of a formal traineeship programme that aims to teach you how to be an effective consultant and a good developer. This typically lasts two years.
 
 If you have joined via the graduate intake you will need to complete the requirements of the ‘Analyst Induction Programme’ (AIP) as well as meeting the standards of a Developer. If you were hired directly into the Analyst Developer grade, you will not complete all the formalities of the AIP, but you should review the training available on the AIP with your coach to decide which would be helpful for you given your background. The requirements of the AIP also highlight some of the breadth required from a career in consulting which may not have been the case in your previous experience.
 
@@ -43,6 +43,7 @@ General expectations:
 - Identifying and escalating risks appropriately.
 - Actively and constructively participating in delivery processes and ceremonies such as planning sessions, retrospectives, and reviews.
 - Supporting and mentoring more junior developers.
+- Actively seeking to learn new skills, technologies.
 - Engaging with and contributing to the wider practice outside of the immediate project.
 
 Technical expectations:
