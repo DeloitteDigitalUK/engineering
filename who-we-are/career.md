@@ -136,7 +136,6 @@ Senior Technical Lead is the first grade for which you need to present a busines
 Some, but far from all, of our Senior Technical Leads will be recognised as a Chief Engineer, a particular role that describes some of our most experienced and capable technologists. Our Chief Engineers are our guardians of quality and innovation:
 
 - On a project, the role of a Chief Engineer is to make us the best engineers we can be on that project.
-
 - In the practice, the role of a Chief Engineer is the make us the best engineers we can be, full stop.
 
 Our Chief Engineers do this by:
