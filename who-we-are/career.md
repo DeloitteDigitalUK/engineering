@@ -15,8 +15,8 @@ There are few cross cutting expectations that apply to all grades:
 - **Stay curious**: We don’t expect you to know everything, but we do expect you to want to keep learning, growing, and challenging your own assumptions, whether you are a graduate or a Partner.
 - **Be agile at heart**: Agile is something that you are, not something that you do. We want you to understand and embrace the principles and values of agile in your day-to-day work.
 - **Take responsibility for the process**: We strive to achieve _flow_ in our work. Working effectively means participating proactively in the delivery process, and finding ways to improve it over time.
-- **Take responsibility for quality**: While there are sometimes specialised testing roles, the team as a unit is responsible of the solution quality. The job is not done until the solution is proven to work, and quality isn’t something we add at the end. Test-driven development is part of our DNA.
-- **Take responsibility for operability**: While there are specific infrastructure engineering skills, all engineers are responsible of creating solutions that are operable, and operating solutions that can continuously improved.
+- **Take responsibility for quality**: While there are sometimes specialised testing roles, the team as a unit is responsible for the solution quality. The job is not done until the solution is proven to work, and quality isn’t something we add at the end. Test-driven development is part of our DNA.
+- **Take responsibility for operability**: While there are specific infrastructure engineering skills, all engineers are responsible for creating solutions that are operable, and operating solutions that can continuously improved.
 
 ##  Engineering grades
 
